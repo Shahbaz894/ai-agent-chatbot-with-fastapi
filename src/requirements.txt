@@ -1,0 +1,7 @@
+langchain_groq==0.2.3
+langchain_openai
+langchain_community
+streamlit
+fastapi
+pydantic
+uvicorn
